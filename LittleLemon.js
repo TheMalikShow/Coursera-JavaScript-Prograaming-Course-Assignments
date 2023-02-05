@@ -20,8 +20,8 @@ const dishData = [
 const tax = 1.20;
 
 // Implement getPrices()
-function getPrices() {
-    
+function getPrices(taxBoolean) {
+   
 }
 
 // Implement getDiscount()
