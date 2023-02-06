@@ -21,9 +21,12 @@ const tax = 1.20;
 
 // Implement getPrices()
 function getPrices(taxBoolean) {
-    dishData.map= (item) =>{
-        return item;
+    for (i=0 ; i=dishData.length; i++){
+        var finalPrice;
+        if()
     }
+    
+
    
 }
 
